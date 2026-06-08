@@ -138,5 +138,3 @@ Provides deeper insights into individual pizza performance.
 Aspiring Data Analyst | Power BI Enthusiast
 
 ---
-
-⭐ If you found this project useful, feel free to star the repository.
