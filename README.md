@@ -1,6 +1,6 @@
-# 🍕 Pizza Sales Analysis Dashboard | Power BI
+#  Pizza Sales Analysis Dashboard | Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an interactive Power BI dashboard designed to analyze pizza sales data and uncover valuable business insights.
 
@@ -8,7 +8,7 @@ The dashboard provides a comprehensive view of revenue performance, customer ord
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 * Analyze overall revenue and sales performance.
 * Identify peak ordering hours.
@@ -20,7 +20,7 @@ The dashboard provides a comprehensive view of revenue performance, customer ord
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * Microsoft Power BI
 * Power Query Editor
@@ -29,7 +29,7 @@ The dashboard provides a comprehensive view of revenue performance, customer ord
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The project uses four datasets:
 
@@ -42,7 +42,7 @@ These tables were connected through relationships to create a complete sales ana
 
 ---
 
-## 🧹 Data Cleaning Process
+## Data Cleaning Process
 
 Data preparation was performed using Power Query Editor:
 
@@ -55,7 +55,7 @@ Data preparation was performed using Power Query Editor:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 ### KPI Cards
 
@@ -98,7 +98,7 @@ Provides deeper insights into individual pizza performance.
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Peak order activity occurs during lunch hours.
 * Certain pizza categories contribute significantly more revenue than others.
@@ -108,7 +108,7 @@ Provides deeper insights into individual pizza performance.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the Power BI (.pbix) file.
 2. Open it using Power BI Desktop.
@@ -118,7 +118,7 @@ Provides deeper insights into individual pizza performance.
 
 ---
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Cleaning
 * Data Modeling
@@ -131,7 +131,7 @@ Provides deeper insights into individual pizza performance.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Ishika Sharma**
 
